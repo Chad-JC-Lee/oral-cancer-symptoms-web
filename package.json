@@ -1,7 +1,6 @@
 {
   "name": "oral-cancer-symptoms-web",
   "version": "1.0.0",
-  "homepage": "https://chad-jc-lee.github.io/oral-cancer-symptoms-web",
   "description": "口腔癌術後主訴表達網頁應用",
   "main": "index.js",
   "scripts": {
